@@ -408,9 +408,11 @@ int main()
 
 	}
 
+	std::cout << std::endl;
+
 	
 
-	encrypt(arr[n-1]);
+	encrypt(arr[n-2]);
 
 	
 
